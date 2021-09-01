@@ -194,4 +194,7 @@ MIT
 This file is readme.md
 Added new line
 Commited new line
+
+Branch1 added texts
 Branch2
+
